@@ -2,7 +2,7 @@
 Study notes for the SAA
 ## Databases
 
-#RDS
+# RDS
 Relational database service is a managed,  **private** DAAS allowing you to create instance from widely-used database engines. 
 
 **MultiAZ- Instance**
@@ -30,11 +30,11 @@ There are 3 different endpoints that can be used for accessing the instances
 
 ** Backup and Recovery **
 
-#Aurora 
+# Aurora 
 
-#Redshift
+# Redshift
 
-#DynamoDB
+# DynamoDB
 * Fully managed no-sql database; **public** database-as-a-service 
 * Data is stored in tables that are replicated across 3 different AZs, one being the leader node 
 * Tables have items which are identified by a unique, simple or composite primary key
